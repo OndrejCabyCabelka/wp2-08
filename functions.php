@@ -50,7 +50,7 @@
             if ($fighterB<= 0) {
                 return $fighterA['name'];
 
-            }
+            } 
         }
     }
 
